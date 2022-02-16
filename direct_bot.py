@@ -3,11 +3,11 @@ from selenium.webdriver.common.keys import Keys
 import time, random
 
 # Username and password of your instagram account:
-my_username = 'owj.ra'
-my_password = 'jeraperdana2606'
+my_username = 'username instagram'
+my_password = 'password instagram'
 
 # Instagram username list for DM:
-usernames = ['inies_tehmanis','owj.ra','']
+usernames = ['name_tage','name_tage','name_tage']
 
 # Messages:
 messages = ['Hey Manis Boleh Kenalan_Tapi Boong ','Hey Manis Boleh Kenalan_Tapi Boong']
